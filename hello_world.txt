@@ -1,1 +1,2 @@
 Adding some text to this file!
+I configured VSCode as my core editor to enter Commit messages!
